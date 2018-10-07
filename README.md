@@ -819,6 +819,15 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - Besides coding, I love to read novels and explore different places.
 - [![github-alt][github-img]](https://github.com/sahilwasan000)
 
+### Sameera Shaik
+- I am an web developer
+- I am working on web application projects and I am learning machine learning 
+- My hobbies include coding, reading books.
+- [![twitter-alt][twitter-img]](https://twitter.com/Tech_junkee)
+  [![facebook-alt][facebook-img]](https://www.facebook.com/tech.junkee)
+  [![github-alt][github-img]](https://github.com/samxshaik)
+  [![freeCodeCamp](imgs/freecodecamp.png)](https://www.freecodecamp.org/shaiksameera)
+  
 ### Samyak
 - Description about me
 - [![github-alt][github-img]](https://github.com/samyak-sopho)
